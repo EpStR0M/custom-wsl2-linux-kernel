@@ -47,3 +47,4 @@ Workflow](.github/workflows/build.yml) will take care of the rest.
 
 Please take care to update `CONFIG_LOCALVERSION` to distinguish your custom
 kernel from this one.
+
